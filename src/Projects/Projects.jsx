@@ -44,7 +44,7 @@ function Projects(){
 
     <a href="https://papaya-tartufo-0c2b7e.netlify.app/">
       <button
-        className="text-sm font-medium hidden md:block cursor-pointer border border-[#0EA5E9] py-2 px-4 rounded-lg transition-all duration-700 hover:scale-105 active:scale-95 hover:bg-[#0EA5E9]"
+        className="text-sm font-medium cursor-pointer border border-[#0EA5E9] py-2 px-4 rounded-lg transition-all duration-700 hover:scale-105 active:scale-95 hover:bg-[#0EA5E9]"
       >
         VIEW DEMO
       </button>
@@ -84,7 +84,7 @@ function Projects(){
 
     <a href="https://toyalerofiq.vercel.app/">
       <button
-        className="text-sm font-medium hidden md:block cursor-pointer border border-[#0EA5E9] py-2 px-4 rounded-lg transition-all duration-700 hover:scale-105 active:scale-95 hover:bg-[#0EA5E9]"
+        className="text-sm font-medium cursor-pointer border border-[#0EA5E9] py-2 px-4 rounded-lg transition-all duration-700 hover:scale-105 active:scale-95 hover:bg-[#0EA5E9]"
       >
         VIEW DEMO
       </button>
@@ -126,7 +126,7 @@ function Projects(){
 
     <a href="https://medipluswebsit.netlify.app/">
       <button
-        className="text-sm font-medium hidden md:block cursor-pointer border border-[#0EA5E9] py-2 px-4 rounded-lg transition-all duration-700 hover:scale-105 active:scale-95 hover:bg-[#0EA5E9]"
+        className="text-sm font-medium cursor-pointer border border-[#0EA5E9] py-2 px-4 rounded-lg transition-all duration-700 hover:scale-105 active:scale-95 hover:bg-[#0EA5E9]"
       >
         VIEW DEMO
       </button>
@@ -168,7 +168,7 @@ function Projects(){
 
     <a href="https://hyraxsign.vercel.app/" target="_blank">
       <button
-        className="text-sm font-medium hidden md:inline-block
+        className="text-sm font-medium 
         border border-[#0EA5E9] py-2 px-6 rounded-lg
         transition-all duration-300 hover:scale-105 hover:bg-[#0EA5E9] hover:text-black"
       >
@@ -210,7 +210,7 @@ function Projects(){
 
     <a href="https://ticketappreact.vercel.app/">
       <button
-        className="text-sm font-medium hidden md:block cursor-pointer border border-[#0EA5E9] py-2 px-4 rounded-lg transition-all duration-700 hover:scale-105 active:scale-95 hover:bg-[#0EA5E9]"
+        className="text-sm font-medium cursor-pointer border border-[#0EA5E9] py-2 px-4 rounded-lg transition-all duration-700 hover:scale-105 active:scale-95 hover:bg-[#0EA5E9]"
       >
         VIEW DEMO
       </button>
