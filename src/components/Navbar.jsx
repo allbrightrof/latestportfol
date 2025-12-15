@@ -41,7 +41,7 @@ function Navbar() {
  {menuOpen &&  (
         <div className="md:hidden justify-evenly top-0 left-0 z-50 h-screen fixed w-full bg-[#010514]  text-white flex flex-col items-center">
           {/* CLOSE BUTTON */}
-    <div className="w-full flex justify-end p-">
+    <div className="w-full flex justify-end pb-23 pr-10">
       <button onClick={() => setMenuOpen(false)}>
         <FontAwesomeIcon icon={faTimes} className="text-2xl text-[#0EA5E9]" />
       </button>
