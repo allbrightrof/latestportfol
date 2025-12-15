@@ -39,7 +39,7 @@ function Navbar() {
           </button>
         </div>
  {menuOpen &&  (
-        <div className="md:hidden justify-evenly top-15 left-0 h-screen fixed w-full bg-[#010514]  text-white flex flex-col items-center">
+        <div className="md:hidden justify-evenly top-20 left-0 h-screen fixed w-full bg-[#010514]  text-white flex flex-col items-center">
         
       <ul className="flex justify-between pt-2 flex-col gap-12 text-sm font-medium">
         <li className="cursor-pointer hover:bg-[#0EA5E9] py-2 px-3 rounded-lg transform transition-all duration-700 hover:scale-105
