@@ -38,7 +38,7 @@ function Achievements() {
           className="flex flex-col items-center p-5 bg-[#202022] border border-[#0EA5E9] rounded-xl hover:scale-105 transition duration-300"
         >
           <FaCertificate className="text-yellow-400 text-4xl mb-3" />
-          <h3 className="text-white font-semibold mb-2">JavaScript Certificate</h3>
+          <h3 className="text-white font-semibold mb-2">JavaScript Algorithms And Data Structure</h3>
           <p className="text-gray-300 text-sm text-center">
             Certified in JavaScript, focusing on web development fundamentals, DOM manipulation, and interactive web apps.
           </p>

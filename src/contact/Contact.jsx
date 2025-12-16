@@ -19,15 +19,14 @@ return(
         <div className="fixed inset-0 bg-black/50 backdrop-blur-sm flex justify-center items-center z-50">
           <div className="bg-[#202022] rounded-xl p-8 w-96 relative">
             <button className="absolute top-3 right-3 text-gray-400 hover:text-white" onClick={closeModal}>X</button>
-            <h3 className="text-xl font-bold mb-2">Contact Me</h3>
+            <h3 className="text-gray-200 font-bold mb-2">Contact Me</h3>
             <p className="text-gray-300 mb-4">
               Don't hesitate to reach out if you have something interesting or just want to say hi!
             </p>
-            <div className="flex justify-around mt-4">
-              <a href="https://wa.me/your-number" target="_blank" className="bg-green-500 p-3 rounded-full text-white">WhatsApp</a>
-              <a href="https://discord.com/users/your-id" target="_blank" className="bg-indigo-600 p-3 rounded-full text-white">Discord</a>
-              <a href="mailto:yourmail@gmail.com" className="bg-red-500 p-3 rounded-full text-white">Gmail</a>
-              <a href="https://instagram.com/yourusername" target="_blank" className="bg-pink-500 p-3 rounded-full text-white">Instagram</a>
+            <div className="flex justify-evenly mt-4">
+              <a href="https://wa.me/+2348144642626" target="_blank" className="bg-green-500 p-3 rounded-full text-white">WhatsApp</a>
+              <a href="mailto:rofiqvincas@gmail.com" className="bg-red-500 p-3 rounded-full text-white">Gmail</a>
+              <a href="https://github.com/allbrightrof/" target="_blank" className="bg-black/50 p-3 rounded-full text-white">X Twitter</a>
             </div>
           </div>
         </div>
