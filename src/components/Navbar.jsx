@@ -39,14 +39,14 @@ function Navbar() {
           </button>
         </div>
  {menuOpen &&  (
-        <div className="md:hidden justify-evenly top-0 left-0 z-50 h-screen fixed w-full bg-[#010514]  text-white flex flex-col items-center">
-          {/* CLOSE BUTTON */}
-    <div className="w-full flex justify-end pb-23 pr-10">
+        <div className="md:hidden justify-around top-0 left-0 z-50 h-screen w-screen fixed bg-[#010514]  text-white flex flex-col items-center">
+          {/* CLOSE BUTTON */} 
+    <div className="w-full flex justify-end pr-10">
       <button onClick={() => setMenuOpen(false)}>
         <FontAwesomeIcon icon={faTimes} className="text-2xl text-[#0EA5E9]" />
       </button>
     </div>
-      <ul className="flex justify-between pt-2 flex-col gap-12 text-sm font-medium">
+      <ul className="flex justify-between flex-col gap-10 text-sm font-medium">
         <li className="cursor-pointer hover:bg-[#0EA5E9] py-2 px-3 rounded-lg transform transition-all duration-700 hover:scale-105
     active:scale-150">HOME</li>
         <li className="cursor-pointer hover:bg-[#0EA5E9] py-2 px-3 rounded-lg transform transition-all duration-700 hover:scale-105
