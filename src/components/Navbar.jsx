@@ -40,7 +40,7 @@ function Navbar() {
         </ul>
 
         {/* DESKTOP CV BUTTON */}
-      <a href="./public/Toyale Rofiq.pdf"  target="_blank"> <button
+      <a href="/Toyale Rofiq.pdf" rel="noopener noreferrer" target="_blank"> <button
           className={`hidden md:block text-sm font-medium border border-[#0EA5E9] py-2 px-4 rounded-lg transition-all duration-500 hover:scale-105 hover:bg-[#0EA5E9]
             ${showCV ? "opacity-100 translate-x-0" : "opacity-0 translate-x-5"}
           `}

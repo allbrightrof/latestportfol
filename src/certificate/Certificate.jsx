@@ -48,7 +48,7 @@ https://freecodecamp.org/certification/allbright016/javascript-algorithms-and-da
         </motion.div>
 
         {/* HNG Internship Certificate */}
-               <a  href="./public/HNG Internship 13_Toyale Rofiq Afolabi_certificate (1).pdf"
+               <a  href="/HNG Internship 13_Toyale Rofiq Afolabi_certificate (1).pdf" rel="noopener noreferrer"
   target="_blank">  <motion.div
           variants={cardVariants}
           className="flex flex-col items-center p-5 bg-[#202022] border border-[#0EA5E9] rounded-xl hover:scale-105 transition duration-300"
