@@ -48,7 +48,8 @@ https://freecodecamp.org/certification/allbright016/javascript-algorithms-and-da
         </motion.div>
 
         {/* HNG Internship Certificate */}
-        <motion.div
+               <a  href="./public/HNG Internship 13_Toyale Rofiq Afolabi_certificate (1).pdf"
+  target="_blank">  <motion.div
           variants={cardVariants}
           className="flex flex-col items-center p-5 bg-[#202022] border border-[#0EA5E9] rounded-xl hover:scale-105 transition duration-300"
         >
@@ -58,8 +59,8 @@ https://freecodecamp.org/certification/allbright016/javascript-algorithms-and-da
             Completed the HNG Tech Internship, gaining hands-on experience in React, Tailwind CSS, and project-based web development.
           </p>
           {/* Optional: Add an image */}
-         <a href="./hnginter.png" download="HNG-Certificate.png"><img src="./hnginter.png" alt="HNG Certificate" className="mt-3 rounded-md" /></a> 
-        </motion.div>
+<img src="./hnginter.png" alt="HNG Certificate" className="mt-3 rounded-md" />
+        </motion.div></a> 
 
         {/* CodeRush Tech Community */}
         <motion.div

@@ -51,11 +51,11 @@ return(
        x Twitter
     </a>, and don't forget to check out my{" "}
     <a 
-      href="/resume.pdf"
+      href="./public/my resume.pdf"
       target="_blank"
       className="text-[#0EA5E9]"
     >
-      Cv
+      Resume
     </a>
   </p>
 </footer>
