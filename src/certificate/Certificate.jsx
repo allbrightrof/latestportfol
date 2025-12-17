@@ -69,7 +69,7 @@ https://freecodecamp.org/certification/allbright016/javascript-algorithms-and-da
         >
           {/* Use a custom logo or a tech icon */}
           <SiYoutube className="text-red-500 text-4xl mb-2" />
-          <SiWhatsapp className="text-green-500 text-4xl mb-2" />
+         <a href="https://www.whatsapp.com/channel/0029VaQNBhYJENy2j7bHyM11"> <SiWhatsapp className="text-green-500 text-4xl mb-2" /></a>
           <h3 className="text-white font-semibold mb-2">CodeRush Community</h3>
           <p className="text-gray-300 text-sm text-center">
             CodeRush is a tech learning community where I create educational content for aspiring developers. It includes a <strong>WhatsApp channel with 11k+ followers</strong> and a <strong>YouTube channel with 1.5k subscribers</strong>, sharing tutorials, tech tips, and programming guidance.

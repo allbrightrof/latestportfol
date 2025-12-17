@@ -23,7 +23,7 @@ function Navbar() {
         
         {/* LOGO */}
         <div className="text-xl font-bold cursor-pointer">
-          AFO
+          AFOLABI
           <span className="text-[#0EA5E9]">@ALLBRIGHT016</span>
         </div>
 
