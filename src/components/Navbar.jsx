@@ -23,8 +23,8 @@ function Navbar() {
         
         {/* LOGO */}
         <div className="text-xl font-bold cursor-pointer">
-          AFOLABI
-          <span className="text-[#0EA5E9]">@ALLBRIGHT016</span>
+          Afolabi
+          <span className="text-[#0EA5E9]">@allbright016</span>
         </div>
 
         {/* DESKTOP MENU */}
