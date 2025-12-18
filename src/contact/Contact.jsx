@@ -51,7 +51,7 @@ return(
        x Twitter
     </a>, and don't forget to check out my{" "}
     <a 
-      href="/my resume.pdf" rel="noopener noreferrer"
+      href="/resume.pdf" rel="noopener noreferrer"
       target="_blank"
       className="text-[#0EA5E9]"
     >
