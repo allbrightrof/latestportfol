@@ -26,7 +26,7 @@ return(
             <div className="flex justify-evenly mt-4">
               <a href="https://wa.me/+2348144642626" target="_blank" className="bg-green-500 p-3 rounded-full text-white">WhatsApp</a>
               <a href="mailto:rofiqvincas@gmail.com" className="bg-red-500 p-3 rounded-full text-white">Gmail</a>
-              <a href="https://github.com/allbrightrof/" target="_blank" className="bg-black/50 p-3 rounded-full text-white">X Twitter</a>
+              <a href="https://x.com/allbright016?s=21" target="_blank" className="bg-black/50 p-3 rounded-full text-white">X Twitter</a>
             </div>
           </div>
         </div>
@@ -44,7 +44,7 @@ return(
     </a>{" "}
     and{" "}
     <a 
-      href="https://discord.com/"
+      href="https://x.com/allbright016?s=21"
       target="_blank"
       className="text-[#0EA5E9]"
     >
