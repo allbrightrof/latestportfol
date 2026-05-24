@@ -5,20 +5,32 @@ function Hero(){
    return(
     <section className="bg-[#010514] text-white flex justify-between px-6">
         <div className="max-w-[80%] mx-auto space-y-8">
-         <h4 className="text-3xl md:text-2xl font-bold">
-          💻
-Frontend Developer (Frontend-leaning) & Open Source Contributor
-         </h4>
-         <p className="text-[#0EA5E9] text-lg md:text-xl font-medium">
-               📍 Nigeria — Building and Securing the Web
-         </p>
-          <p className="text-gray-300 leading-relaxed text-sm md:text-base">
-        I'm a passionate Web Developer focused on building clean, responsive, and user-friendly interfaces using HTML, CSS, JavaScript, and React. I’m currently strengthening my understanding of Data Structures & Algorithms through freeCodeCamp and solving challenges on LeetCode to improve my problem-solving skills.
+    <h4 className="text-3xl md:text-2xl font-bold">
+  💻 Full Stack Developer
+</h4>
 
-While my core expertise lies in frontend development, I’m also deeply interested in Cybersecurity, as I aim to combine secure engineering practices with innovative digital solutions.
+<p className="text-[#0EA5E9] text-lg md:text-xl font-medium">
+  📍 Nigeria — Building and Securing the Web
+</p>
 
-I’m driven by creativity, continuous learning, and a strong desire to build tech products that positively impact people around the world.
-        </p>
+<p className="text-gray-300 leading-relaxed text-sm md:text-base">
+  Web Developer focused on building modern, responsive, and user-friendly web applications using HTML, CSS, JavaScript, TypeScript, React, Bootstrap, Node.js, Express, MongoDB, and WordPress.
+  
+  <br />
+  <br />
+
+  I enjoy working across both frontend and backend development while continuously improving my problem-solving skills through Data Structures & Algorithms practice on freeCodeCamp and LeetCode.
+
+  <br />
+  <br />
+
+  Beyond development, I’m deeply interested in Cybersecurity and secure engineering practices, with the goal of building impactful digital products that solve real-world problems.
+
+  <br />
+  <br />
+
+  Driven by creativity, consistency, and continuous learning.
+</p>
    <ul className="flex gap-6 mt-6 max-w-7xl mx-auto">
   <li>
     <a href="https://github.com/allbrightrof" target="_blank" className="text-white hover:text-gray-400 transition">
